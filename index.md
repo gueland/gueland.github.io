@@ -4,7 +4,7 @@ title: Guy Ueland's GitHub pages
 ---
 
 
-# Welcome to Guy Ueland's GitHub Pages!
+# <center>Welcome to Guy Ueland's GitHub Pages!</center>
 
 
 
